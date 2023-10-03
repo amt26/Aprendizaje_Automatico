@@ -9,3 +9,4 @@ En este repositorio se encuentran las tareas asociadas a la materia **Aprendizaj
 Indice de tareas:
 * [Tarea 1](/Tarea1.ipynb)
 * [Tarea 2](/Tarea2.ipynb)
+* [Tarea 3](/Tarea3.ipynb)
