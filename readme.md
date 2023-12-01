@@ -14,3 +14,4 @@ Indice de tareas:
 * [Tarea 5](/Tarea5.ipynb)
 * [Tarea 6](/Tarea6.ipynb)
 * [Tarea 8](/Tarea8.ipynb)
+* [Tarea 9](/Tarea9.ipynb)
